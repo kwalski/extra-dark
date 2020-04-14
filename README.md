@@ -2,7 +2,7 @@
 
 Extra Dark Theme for VSCode designed to enhance code readability and productivity
 
-![screenshot](https://github.com/kwalski/extra-dark/raw/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/kwalski/extra-dark/master/screenshot.png)
 
 ## CHANGELOG
 
