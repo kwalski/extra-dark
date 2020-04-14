@@ -2,7 +2,7 @@
   "name": "extra-dark",
   "displayName": "Extra Dark",
   "description": "Extra Dark Theme designed to enhance code readability",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.44.0"
   },
@@ -14,7 +14,7 @@
       {
         "label": "Extra Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Extra Dark-color-theme.json"
+        "path": "./themes/extra-dark-color-theme.json"
       }
     ]
   },
