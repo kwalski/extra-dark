@@ -22,7 +22,8 @@
     "settings.textInputBackground": "#292929",
     "sideBarTitle.foreground": "#bbbbbb",
     "statusBarItem.remoteBackground": "#16825d",
-    "statusBarItem.remoteForeground": "#ffffff"
+    "statusBarItem.remoteForeground": "#ffffff",
+    "statusBar.background": "#9c27b0"
     //"activityBar.activeBorder": "#e040fb",
     //"activityBar.background": "#333333",
     //"activityBar.dropBackground": "#ffffff1f",
@@ -257,10 +258,8 @@
     //"sideBar.background": "#252526",
     //"sideBar.dropBackground": "#ffffff1f",
     //"sideBarSectionHeader.background": "#80808033",
-    //"statusBar.background": "#007acc",
     //"statusBar.debuggingBackground": "#cc6633",
     //"statusBar.debuggingForeground": "#ffffff",
-    //"statusBar.foreground": "#ffffff",
     //"statusBar.noFolderBackground": "#68217a",
     //"statusBar.noFolderForeground": "#ffffff",
     //"statusBarItem.activeBackground": "#ffffff2e",
