@@ -2,7 +2,7 @@
   "name": "extra-dark",
   "displayName": "Extra Dark",
   "description": "Extra Dark Theme designed to enhance code readability",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.44.0"
   },
@@ -18,7 +18,15 @@
       }
     ]
   },
-  "publisher":"gi",
+  "icon": "icon.png",
+  "keywords": [
+    "extra dark",
+    "extradark",
+    "extra",
+    "theme",
+    "dark"
+  ],
+  "publisher": "gi",
   "repository": {
     "type": "git",
     "url": "https://github.com/kwalski/extra-dark"
