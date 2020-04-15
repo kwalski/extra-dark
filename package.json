@@ -2,9 +2,9 @@
   "name": "extra-dark",
   "displayName": "Extra Dark",
   "description": "Extra Dark Theme designed to enhance code readability",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
-    "vscode": "^1.44.0"
+    "vscode": "^1.40.0"
   },
   "categories": [
     "Themes"
